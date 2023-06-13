@@ -35,6 +35,8 @@ To load data from the file at https://bit.ly/2nNFoRe, where missing values are m
 Task 4:
 To load a CSV file from the given URL (https://www.dropbox.com/s/axeucvys209d30h/inc5000_all10years.csv?dl=1) into a DataFrame, you can use the pandas library:
 
+
+
 1.Find data that meets the following conditions:
 
 -The 'industry' column has the value 'Software'
@@ -45,8 +47,12 @@ To load a CSV file from the given URL (https://www.dropbox.com/s/axeucvys209d30h
 
 -The company name ('company') starts with the letter 'S' or the letter 'C'
 
+
+
 2.Sort the obtained data based on the following columns:
 
 -Sort by 'yrs_on_list' in ascending order
+
 -Sort by 'revenue' in descending order
+
 -Sort by 'workers' in ascending order
